@@ -13,4 +13,5 @@ Parallel programming extends well beyond multithreading and can take place among
 #### Multithreading and Parallel Computing in Java:
 
 - **[Sequential Processing](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/SequentialProcessing)**
+- **[Volatile](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Volatile)**
 
