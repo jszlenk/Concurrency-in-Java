@@ -16,4 +16,5 @@ Parallel programming extends well beyond multithreading and can take place among
 - **[Volatile](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Volatile)**
 - **[Synchronized](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Synchronized)**
 - **[Synchronized Block](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/SynchronizedBlock)**
+- **[Wait and notify](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/SynchronizedBlock)**
 
