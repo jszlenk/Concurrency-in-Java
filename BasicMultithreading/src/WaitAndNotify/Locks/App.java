@@ -1,14 +1,14 @@
-package WaitAndNotify;
+package WaitAndNotify.Locks;
 
 public class App {
 
-    public static void main(String[] args) {
+    private static Processor processor = new Processor();
 
-        Processor processor = new Processor();
+    public static void main(String[] args) {
 
         Thread t1 = new Thread(() -> {
             try {
-                processor.produce();
+                processor.producer();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -17,11 +17,10 @@ public class App {
 
         Thread t2 = new Thread(() -> {
             try {
-                processor.consume();
+                processor.consumer();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
         });
 
         t1.start();
@@ -33,6 +32,5 @@ public class App {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
     }
 }

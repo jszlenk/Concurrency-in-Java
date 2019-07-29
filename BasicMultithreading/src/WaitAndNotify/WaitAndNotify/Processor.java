@@ -1,4 +1,4 @@
-package WaitAndNotify;
+package WaitAndNotify.WaitAndNotify;
 
 class Processor {
 
@@ -19,6 +19,8 @@ class Processor {
             System.out.println("Consumer method...");
             notify();
             Thread.sleep(2000);
+            System.out.println("Consumer again...");
+
         }
     }
 }
