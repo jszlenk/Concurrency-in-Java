@@ -1,4 +1,4 @@
-package ConcurrentCollections.Exchanger;
+package Exchanger;
 
 import java.util.concurrent.Exchanger;
 

@@ -1,4 +1,4 @@
-package ConcurrentCollections.DelayQueue;
+package DelayQueue;
 
 import java.util.concurrent.Delayed;
 import java.util.concurrent.TimeUnit;

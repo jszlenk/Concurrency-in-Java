@@ -1,4 +1,4 @@
-package ConcurrentCollections.PriorityBlockingQueue;
+package PriorityBlockingQueue;
 
 import java.util.concurrent.BlockingQueue;
 

@@ -1,4 +1,4 @@
-package ConcurrentCollections.Latch;
+package Latch;
 
 import java.util.concurrent.CountDownLatch;
 
