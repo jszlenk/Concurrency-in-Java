@@ -12,9 +12,31 @@ Parallel programming extends well beyond multithreading and can take place among
 
 #### Multithreading and Parallel Computing in Java:
 
+- **[Callable and Future](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/CallableAndFuture)**
+- **[Executors](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Executors)**
+- **[Semaphores](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Semaphores)**
 - **[Sequential Processing](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/SequentialProcessing)**
-- **[Volatile](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Volatile)**
 - **[Synchronized](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Synchronized)**
 - **[Synchronized Block](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/SynchronizedBlock)**
+- **[Volatile](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Volatile)**
 - **[Wait and notify](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/WaitAndNotify)**
 
+---
+
+- Concurrent Collections
+  -  **[AtomicInteger](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/AtomicInteger)**
+  -  **[BlockingQueue](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/BlockingQueue)**
+  -  **[ConcurrentMaps](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/ConcurrentMaps)**
+  -  **[CyclicBarrier](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/CyclicBarrier)**
+  -  **[DelayQueue](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/DelayQueue)**
+  -  **[Exchanger](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/Exchanger)**
+  -  **[CountDownLatch](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/Latch)**
+  -  **[PriorityBlockingQueue](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ConcurrentCollections/src/PriorityBlockingQueue)**
+
+---
+
+- Fork/Join Framework
+  -  **[RecursiveTask](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ForkJoinFramework/src/RecursiveTask)**
+  -  **[RecursiveAction](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ForkJoinFramework/src/RecursiveAction)**
+  -  **[ForkJoin Max Find](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ForkJoinFramework/src/ForkJoinMaxFind)**
+  -  **[ForkJoin MergeSort](https://github.com/jszlenk/Concurrency-in-Java/tree/master/ForkJoinFramework/src/ForkJoinMergeSort)**
