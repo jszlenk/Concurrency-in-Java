@@ -15,6 +15,8 @@ Parallel programming extends well beyond multithreading and can take place among
 - Basic Multithreading
   -  **[Callable and Future](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/CallableAndFuture)**
   -  **[Executors](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Executors)**
+     -  **[Library](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Executors/Library)**
+     -  **[Philosopher Problem](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Executors/PhilosopherProblem)**
   -  **[Semaphores](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Semaphores)**
   -  **[Sequential Processing](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/SequentialProcessing)**
   -  **[Synchronized](https://github.com/jszlenk/Concurrency-in-Java/tree/master/BasicMultithreading/src/Synchronized)**
